@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Design+and+simulation+of+advanced+electrical+machines;Dual-stator+hybrid-rotor+machines;FEA+in+Ansys+Maxwell+%2B+PyAEDT;Machine-learning+surrogate+models;Open+to+PhD+opportunities" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://sajadali.me"><img src="https://img.shields.io/badge/Portfolio-sajadali.me-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sajadali78.github.io"><img src="https://img.shields.io/badge/Portfolio-sajadali78.github.io-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sajadali7/"><img src="https://img.shields.io/badge/LinkedIn-sajadali7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?user=6XbeJKIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="mailto:Sajadali.meees24@iba-Suk.edu.pk"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -156,7 +156,7 @@ Small tools and calculators for electrical machine design work.
 I am open to PhD opportunities and research collaboration in electrical machines.
 
 <p>
-  <a href="https://sajadali.me">Portfolio</a> ·
+  <a href="https://sajadali78.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/sajadali7/">LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?user=6XbeJKIAAAAJ&hl=en">Google Scholar</a> ·
   <a href="mailto:Sajadali.meees24@iba-Suk.edu.pk">Email</a>
